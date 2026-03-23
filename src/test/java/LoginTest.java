@@ -13,7 +13,7 @@ public class LoginTest {
             // 1. Go to site
             driver.get("https://www.saucedemo.com/");
 
-            // 2. Fill Username සහ Password(By using Locators)
+            // 2. Fill Username and Password(By using Locators)
             driver.findElement(By.id("user-name")).sendKeys("standard_user");
             driver.findElement(By.id("password")).sendKeys("secret_sauce");
 
