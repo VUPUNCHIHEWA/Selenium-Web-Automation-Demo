@@ -19,4 +19,4 @@ This project demonstrates automated functional testing for an e-commerce platfor
 ### 💻 How to Run
 1. Clone the repository:
    ```bash
-   git clone [[https://github.com/vishwaniu-umesha/Selenium-Web-Automation-Demo.git]
+   git clone [https://github.com/vishwaniu-umesha/Selenium-Web-Automation-Demo.git]
